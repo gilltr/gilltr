@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manish Gill aka `@gilltr`
-- 👀 I’m interested in Large Scale Distributed Data Systems
+- 👀 I’m interested in Team Building, Large Scale Distributed Data Systems
 - 🌱 I’m currently learning Rust, C++, Storage and consensus algorithms
 - 💞️ I’m looking to collaborate on everything related to Data
 - 📫 Reach me via email: manish.gill@traderepublic.com 
