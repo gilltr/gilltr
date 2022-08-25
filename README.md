@@ -2,7 +2,7 @@
 - 👀 I’m interested in Team Building, Large Scale Distributed Data Systems
 - 🌱 I’m currently learning Rust, C++, Storage and consensus algorithms
 - 💞️ I’m looking to collaborate on everything related to Data
-- 📫 Reach me via email: `me@manishgill.com`
+- 📫 Reach me via email: `me [at] firstnamelastname [dot] com`
 
 <!---
 gilltr/gilltr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
